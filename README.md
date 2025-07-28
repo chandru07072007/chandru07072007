@@ -34,16 +34,20 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,react,tailwind" alt="Tech Stack" />
 </p>
 
+
+
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandru07072007&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=chandru07072007&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru07072007&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru07072007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+
 
 
 
